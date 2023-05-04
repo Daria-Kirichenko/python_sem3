@@ -19,8 +19,7 @@
 
 # import random
 # some_list = []
-# N = int(input("Введите количество числе в списке: "))
-# for _ in range(N):
+# for _ in range(int(input("Введите количество числе в списке: "))):
 #     number = random.randint(1, 100)
 #     some_list.append(number)
 # print(some_list)
